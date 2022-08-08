@@ -1,0 +1,6 @@
+br/com/dio/app/repositories/BuildConfig.java
+ br.com.dio.app.repositories.BuildConfig
+br/com/dio/app/repositories/databinding/ItemRepoBinding.java
+ br.com.dio.app.repositories.databinding.ItemRepoBinding
+br/com/dio/app/repositories/databinding/ActivityMainBinding.java
+ br.com.dio.app.repositories.databinding.ActivityMainBinding

@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/drawable_ic_stars.xml.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/drawable/ic_stars.xml"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/layout_activity_main.xml.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/drawable_ic_search.xml.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/drawable_ic_launcher_background.xml.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/layout_item_repo.xml.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/layout/item_repo.xml"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/menu_main_menu.xml.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/menu/main_menu.xml"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "br.com.alexandre.bk.repositories.app-pngs-16:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "br.com.alexandre.bk.repositories.app-merged_res-21:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "br.com.alexandre.bk.repositories.app-main-23:/mipmap-mdpi/ic_launcher.png"
+    }
+]
